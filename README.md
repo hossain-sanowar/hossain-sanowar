@@ -1,23 +1,117 @@
 <h1 align="center">Hi 👋, I'm Md Sanowar Hossain</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hossain-sanowar&label=Profile%20views&color=0e75b6&style=flat" alt="hossain-sanowar" /> </p>
 
-- 🔭 I’m currently working on [Data Science Projects](https://github.com/hossain-sanowar/consignment-price-prediction-MLOps)
+<h3 align="center">Machine Learning Engineer | MLOps | LLM Systems</h3>
 
-- 🌱 I’m currently learning **Data Science, and Machine Learning**
-
-- 📄 Know about my experiences [www.hossainonline.com](www.hossainonline.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/hossainsanowar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hossainsanowar" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sanowarhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sanowarhossain" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sanowar.hossain.731" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sanowar.hossain.731" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sanowarhossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sanowarhossain/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hossain-sanowar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossain-sanowar&show_icons=true&locale=en&layout=compact" alt="hossain-sanowar" /></p>
+🚀 Building **production-grade AI systems** with MLOps, LLMs, and scalable cloud infrastructure.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossain-sanowar&show_icons=true&locale=en" alt="hossain-sanowar" /></p>
+⭐ Open to **Machine Learning / MLOps / AI Engineer roles**
+
+---
+
+## 💡 Highlights
+
+- Designed and deployed scalable ML pipelines using **CI/CD, Docker, Kubernetes**
+- Built **LLM systems (RAG + Multi-Agent)** using LangChain & Groq
+- Deployed real-world systems on **AWS & GCP**
+- Implemented monitoring with **Prometheus & Grafana**
+- Developed **end-to-end ML lifecycle systems** (data → training → deployment)
+
+---
+
+## 🛠️ Tech Stack
+
+**MLOps:**  
+CI/CD • Docker • Kubernetes • MLflow • DVC  
+
+**Machine Learning:**  
+Scikit-learn • TensorFlow • PyTorch  
+
+**LLM Systems:**  
+LangChain • RAG • Vector DB • Groq  
+
+**Cloud & Infra:**  
+AWS • GCP • Jenkins  
+
+**Backend:**  
+Flask • FastAPI  
+
+---
+
+## 📂 Featured Projects
+
+### ⚙️ MLOps Systems
+-  [MLOps Pipeline Platform](https://github.com/hossain-sanowar/mlops-pipeline-platform)  
+  End-to-end reproducible ML pipeline with MLflow, DVC, CI/CD, Docker, Kubernetes
+
+-  [NLP Sentiment Pipeline](https://github.com/hossain-sanowar/nlp-sentiment-mlops-pipeline)  
+  Production NLP pipeline with CI/CD, monitoring, and scalable deployment
+
+---
+
+### 🏭 ML Systems
+-  [Consignment Prediction](https://github.com/hossain-sanowar/Consignment-Product-Prediction)  
+  ML system with ETL, Airflow, DVC, AWS, Hadoop, and web interface
+
+-  [Kidney Disease Classification](https://github.com/hossain-sanowar/end-end-Kidney_Disease_Classification)  
+  End-to-end ML pipeline with CI/CD and deployed application
+
+---
+
+### 🤖 LLM Systems
+-  [Flipkart LLM System](https://github.com/hossain-sanowar/llm_flipkart_production)  
+  RAG-based production LLM system with Groq, LangChain, AstraDB
+
+-  [AI Study Agent](https://github.com/hossain-sanowar/llm_aiStudy_agent)  
+  Multi-agent LLM system with Kubernetes, Jenkins, and APIs
+
+-  [AI Music Composer](https://github.com/hossain-sanowar/llm_AImusic_composer)  
+  AI music generation system using Music21 + LLM pipeline
+
+---
+
+## 📘 Foundations
+-  [Machine Learning Projects](https://github.com/hossain-sanowar/Machine-Learning-Projects)  
+  Core ML algorithms (Regression, Classification, Clustering, Ensemble)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/HossainSanowar" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://www.kaggle.com/sanowarhossain" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/>
+</a>
+
+<a href="https://leetcode.com/sanowarhossain/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hossain-sanowar&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hossain-sanowar&layout=compact" height="160"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎯 Focus: **MLOps + LLM Systems**
+- 📦 Strong in **production deployment & pipelines**
+- 🚀 Goal: Build **scalable AI systems used in real-world products**
+
+---
