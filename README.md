@@ -88,10 +88,10 @@ Flask • FastAPI
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://www.kaggle.com/sanowarhossain">
-    <img src="https://skillicons.dev/icons?i=kaggle" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"/>
   </a>
   <a href="https://leetcode.com/sanowarhossain/">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/>
   </a>
 </p>
 
@@ -100,8 +100,8 @@ Flask • FastAPI
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossain-sanowar&show_icons=true&theme=default&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hossain-sanowar&layout=compact&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hossain-sanowar&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hossain-sanowar&layout=compact" height="160"/>
 </p>
 
 ---
