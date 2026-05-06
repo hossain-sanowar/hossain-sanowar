@@ -83,18 +83,16 @@ Flask • FastAPI
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/HossainSanowar" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-
-<a href="https://www.kaggle.com/sanowarhossain" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/>
-</a>
-
-<a href="https://leetcode.com/sanowarhossain/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/HossainSanowar">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://www.kaggle.com/sanowarhossain">
+    <img src="https://skillicons.dev/icons?i=kaggle" height="40"/>
+  </a>
+  <a href="https://leetcode.com/sanowarhossain/">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+  </a>
 </p>
 
 ---
@@ -102,8 +100,8 @@ Flask • FastAPI
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossain-sanowar&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hossain-sanowar&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hossain-sanowar&show_icons=true&theme=default&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hossain-sanowar&layout=compact&cache_seconds=1800" height="160"/>
 </p>
 
 ---
