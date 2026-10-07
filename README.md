@@ -1,6 +1,6 @@
 ## Hi, I'm Md Sanowar Hossain 👋
 
-**Site Reliability Engineer · Kubernetes (CKA · CKAD · CKS) · Observability · Cloud**
+**Site Reliability · DevOps · Platform Engineer · Kubernetes (CKA · CKAD · CKS) · Cloud**
 
 I keep business-critical infrastructure reliable, automated and easy for development teams to build on.
 
